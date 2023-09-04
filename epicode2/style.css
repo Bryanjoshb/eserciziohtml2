@@ -1,0 +1,94 @@
+header img {
+    width: 400px;
+    margin-left: -300px;
+    
+}
+
+
+header {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    background-color: rgba(158, 121, 193, 0.86)
+}
+
+
+
+
+body {
+    margin: 0;
+    background-image: url(./immagini/sfondo\ body.jpg);
+    background-size: 100%;
+    background-attachment: fixed;
+    color: azure;
+    
+}
+
+.h1 {
+    color: rgb(163, 102, 220);
+}
+
+main {
+    margin: 20px;
+   
+}
+
+caption {
+    color: violet;
+}
+
+table {
+    width: 100%;
+}
+
+td {
+    border: 1px solid azure;
+    border-radius: 5px;
+    text-align: center;
+    
+}
+
+iframe {
+    margin-left: 400px;
+}
+
+.div1 {background-color: rgb(134, 211, 237);
+    color: black;
+    border: solid black;
+    border-radius: 10px;
+
+}
+
+button {
+    background-color: red;
+    color: white;
+}
+
+.h2 {
+    color:rgb(163, 102, 220) ;
+}
+
+.h32 {
+    
+}
+
+footer {
+    background-color:rgb(158, 121, 193, 0.86) ;
+    color: black;
+}
+
+.articolo2 {
+    padding-left: 300px;
+    margin-top: -112px;
+}
+
+.articolo3 {
+    padding-left: 600px;
+    margin-top: -112px;
+    
+}
+
+.link {
+    color: rgb(255, 0, 0);
+}
